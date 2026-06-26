@@ -1,6 +1,6 @@
 # RobloxGIF
 
-<a href="https://www.roblox.com/games/12279616936/GIF-Player-Preview">EXAMPLE PLACE</a>
+<img width="400" height="225" alt="Image" src="https://github.com/user-attachments/assets/5f156e1b-d39e-48ea-8476-f27a10a3abdc" />
 
 ## How to download:
 
